@@ -1,2 +1,2 @@
 Check proxy
-local_command
+start_checking
